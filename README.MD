@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1dbaf591-fa9a-412d-bfa3-ed2618f07b47" width="100%" alt="Banner de mi perfil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX;Entusiasta+del+Diseño;Creadora+de+Interfaces" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -8,24 +8,17 @@
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
+<div>
+        <img align="left" src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
         <br>
-      </td>
-      <td width="50%">
         <p>🎓 Estudiante de <b>Ingeniería en Sistemas Computacionales</b>.</p>
         <p>🏫 <b>Instituto Tecnológico Superior de Zongolica (ITSZ)</b>
         <p>💡 Me apasiona construir experiencias digitales y prototipos interactivos.</p>
-      </td>
-    </tr>
-  </table>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeTellez21&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
 </div> 
+<br clear="left"/>
 <br>
 
 <h3 align="center">👩🏻‍💻 Acerca de mí</h3>
