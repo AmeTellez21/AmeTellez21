@@ -35,11 +35,11 @@
 }
 ```
 ### 🎧 Status de Spotify
-<div align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=313fom44viesqbhmd5swweeoodbe&cover_image=true&theme=novatorem&bar_color=FF69B4&bar_color_cover=false" alt="Spotify status" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313fom44viesqbhmd5swweeoodbe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313fom44viesqbhmd5swweeoodbe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b8ff9e&bar_color_cover=false">
   </a>
-</div>
+</p>
 
 <br>
 
@@ -49,6 +49,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeTellez21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmeTellez21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tellez_lopez.ame@gmail.com)
-[![Paladin Petals](https://img.shields.io/badge/Paladin_Petals-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 </div>
