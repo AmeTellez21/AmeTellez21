@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX;Entusiasta+del+Diseño;Creadora+de+Interfaces" alt="Typing SVG"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX;Entusiasta+del+Diseño;Creadora+de+Interfaces" alt="Typing SVG" />
-</div>
-
 <br>
 
 <div>
