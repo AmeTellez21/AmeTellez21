@@ -34,30 +34,21 @@
   }
 }
 ```
-
-<!-- STATUS DE SPOTIFY -->
-<h3 align="center">🎧 Status de Spotify</h3>
+### 🎧 Status de Spotify
 <div align="center">
-  <a href="[https://open.spotify.com/](https://open.spotify.com/)">
-    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=313fom44viesqbhmd5swweeoodbe&cover_image=true&theme=novatorem&bar_color=FF69B4&bar_color_cover=false](https://spotify-github-profile.vercel.app/api/view?uid=313fom44viesqbhmd5swweeoodbe&cover_image=true&theme=novatorem&bar_color=FF69B4&bar_color_cover=false)" alt="Spotify status" />
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=313fom44viesqbhmd5swweeoodbe&cover_image=true&theme=novatorem&bar_color=FF69B4&bar_color_cover=false" alt="Spotify status" />
   </a>
 </div>
 
 <br>
 
-<!-- DÓNDE ENCONTRARME -->
-<h3 align="center">📫 Conectemos</h3> 
+### 📫 Conectemos
 <div align="center">
-  <!-- GitHub -->
-  <a href="[https://github.com/AmeTellez21](https://github.com/AmeTellez21)" target="_blank">
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/AmeTellez21](https://www.linkedin.com/in/AmeTellez21)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
-  </a>
-  <!-- Correo -->
-  <a href="mailto:tellez_lopez.ame@gmail.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeTellez21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmeTellez21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tellez_lopez.ame@gmail.com)
+[![Paladin Petals](https://img.shields.io/badge/Paladin_Petals-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
 </div>
