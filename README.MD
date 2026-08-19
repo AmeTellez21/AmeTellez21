@@ -1,9 +1,13 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/1dbaf591-fa9a-412d-bfa3-ed2618f07b47" width="100%" alt="Banner de mi perfil" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX;Entusiasta+del+Diseño;Creadora+de+Interfaces" alt="Typing SVG"/>
 </div>
 <br>
 
-<div>
+<div align="center">
         <img align="left" src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
         <br>
         <p>🎓 Estudiante de <b>Ingeniería en Sistemas Computacionales</b>.</p>
