@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX;Entusiasta+del+Diseño;Creadora+de+Interfaces" alt="Typing SVG"/>
 </div>
-<br>
 
 <div align="center">
         <img src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
