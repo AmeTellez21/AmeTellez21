@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-        <img align="left" src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
+        <img src="https://i.pinimg.com/originals/5b/47/8f/5b478f3a87757b1a92eaa1092903d391.gif" width="160" alt="Coding GIF"/> 
         <br>
         <p>🎓 Estudiante de <b>Ingeniería en Sistemas Computacionales</b>.</p>
         <p>🏫 <b>Instituto Tecnológico Superior de Zongolica (ITSZ)</b>
